@@ -73,3 +73,4 @@ Ensure your controller is plugged in before running the script!
 
 - Implement a GUI to handle input configuration
 - Map DPAD buttons
+- Create executables
